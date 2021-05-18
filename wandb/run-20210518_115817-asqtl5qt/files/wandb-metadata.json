@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2021-05-18T06:28:20.181500",
+    "startedAt": "2021-05-18T06:28:17.920770",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3080",
+    "gpu_count": 1,
+    "cpu_count": 20,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\Jaitesh\\AppData\\Roaming\\jupyter\\runtime\\kernel-559fdc44-dbbd-4658-b4bd-c2f4bb637389.json"
+    ],
+    "state": "running",
+    "program": "Attention.ipynb",
+    "root": "C:/Users/Jaitesh/Desktop/Courses/DL/RecurrentNetwork",
+    "git": {
+        "remote": "https://github.com/0-5-blood-prince/RecurrentNetwork.git",
+        "commit": "c2b87f9679938efbf8523ac144891d25358f6dcc"
+    },
+    "email": "jaiteshp@gmail.com",
+    "host": "PC-01U",
+    "username": "Jaitesh",
+    "executable": "C:\\Users\\Jaitesh\\.conda\\envs\\tf2.4\\python.exe"
+}
